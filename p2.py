@@ -1,0 +1,5 @@
+number_one=int(input("enter number one"))
+number_two=int(input("enter number two"))
+number_three=int(input("enter number three"))
+total=((number_one + number_two + number_three)/3)
+print(total)
